@@ -1,2 +1,9 @@
-# rss-parser
-Парсит и добавляет в БД новые публикации из rss фидов. 
+# rss-parsers
+
+## Usage
+
+To start parser use `python -m parser` or `make run`.
+
+## Contributing
+
+For contributing guide see [contibuting guide](./CONTRIBUTING.md)
