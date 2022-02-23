@@ -2,7 +2,10 @@
 
 ## Usage
 
-To start parser use `python -m parser` or `make run`.
+Парсит новые публикации в rss-фидах и добавляет в БД.
+
+
+Запуск: `python -m parser` или `make run`.
 
 ## Contributing
 
